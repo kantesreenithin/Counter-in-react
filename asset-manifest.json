@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kantesreenithin/Counter-in-react/static/css/main.d913124f.css",
-    "main.js": "/kantesreenithin/Counter-in-react/static/js/main.d853a28a.js",
-    "index.html": "/kantesreenithin/Counter-in-react/index.html",
-    "main.d913124f.css.map": "/kantesreenithin/Counter-in-react/static/css/main.d913124f.css.map",
-    "main.d853a28a.js.map": "/kantesreenithin/Counter-in-react/static/js/main.d853a28a.js.map"
+    "main.css": "/kantesreenithin/static/css/main.d913124f.css",
+    "main.js": "/kantesreenithin/static/js/main.d853a28a.js",
+    "index.html": "/kantesreenithin/index.html",
+    "main.d913124f.css.map": "/kantesreenithin/static/css/main.d913124f.css.map",
+    "main.d853a28a.js.map": "/kantesreenithin/static/js/main.d853a28a.js.map"
   },
   "entrypoints": [
     "static/css/main.d913124f.css",
